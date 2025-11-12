@@ -1,0 +1,24 @@
+name: ♻️ Auto Update GitHub Profile README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:       # Allows manual trigger
+
+jobs:
+  update-readme:
+    name: Update GitHub Profile README
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🧩 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🚀 Commit & Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull
+          git add .
+          git commit -m "🔄 Auto-update README stats"
+          git push
+        continue-on-error: true
