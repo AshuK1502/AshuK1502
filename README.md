@@ -2,7 +2,7 @@
 <!-- Dynamic Typing Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hey there, I'm <span style="color:#00BFFF;">Kaushal</span>!
+  Hey Hi😊, I'm <span style="color:#00BFFF;">Ashutosh Kaushal</span>!
 </h1>
 
 <h3 align="center">🚀 Full-Stack Developer | 🤖 Machine Learning Enthusiast | 💡 Innovator</h3>
@@ -17,13 +17,13 @@
 
 <img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **B.Tech in Information Technology (AKTU)**  
+- 🎓 **B.Tech in Computer Science and Engineering (AKTU)**  
 - 💻 Passionate about **AI-driven Applications** & **Web Engineering**  
 - 🔬 Currently exploring:  
   - 🧠 Deep Learning for Medical & Environmental Systems  
   - 🌾 ML-based Smart Agriculture & Crop Prediction  
   - 📚 AI-powered E-Learning Recommendation Systems  
-- 🏆 **Winner** – Innovative Marketing & Business Ideas Competition  
+- 🏆 **Winner** – Innovative Marketing & Business Ideas Competition in Software Technology
 - ⚡ Fast learner who merges creativity with technical precision  
 
 ---
@@ -33,13 +33,13 @@
 <div align="center">
   
 **Languages:**  
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,js" /><br>
 
 **Frameworks & Libraries:**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,flask,opencv,tensorflow,sklearn" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,bootstrap,flask,opencv,tensorflow,sklearn" /><br>
 
 **Databases & Tools:**  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,figma,xd,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 
 </div>
 
@@ -57,13 +57,16 @@
 ## ⚡ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal&theme=tokyonight&hide_border=true" alt="Kaushal's GitHub Streak" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushal&show_icons=true&theme=tokyonight&hide_border=true" alt="Kaushal's GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshuK1502&theme=tokyonight&hide_border=true" alt="Kaushal's GitHub Streak" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshuK1502&show_icons=true&theme=tokyonight&hide_border=true" alt="Kaushal's GitHub Stats" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal&layout=compact&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaushal&theme=tokyonight&margin-w=15&margin-h=15&column=4" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuK1502&layout=compact&theme=tokyonight&hide_border=true" width="49%">
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=AshuK1502&theme=tokyonight&margin-w=15&margin-h=15&column=4" width="49%"> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AshuK1502&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&title=Commits,Repositories" width="49%">
+
+
 </p>
 
 ---
@@ -82,16 +85,14 @@ If you’re building something exciting — I’d love to connect!
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="mailto:kaushal.dev@mail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://linkedin.com/in/kaushal"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://twitter.com/kaushal_codes"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-  <a href="https://github.com/kaushal"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="mailto:kaushalashu29@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="www.linkedin.com/in/ashk1502"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushal&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=AshuK1502&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile views" />  
 </p>
 
 <p align="center">
