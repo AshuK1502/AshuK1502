@@ -1,4 +1,4 @@
-## Hello Friend 👋
+
 <!-- Dynamic Typing Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
@@ -52,19 +52,7 @@
 📚 **E-Learning Recommender** – Sentiment-aware course and study suggestion engine  
 🌾 **Smart Agriculture Model** – Crop prediction & yield optimization using ML  
 
----
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuK1502&layout=compact&theme=tokyonight&hide_border=true" width="49%">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=AshuK1502&theme=tokyonight&margin-w=15&margin-h=15&column=4" width="49%"> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AshuK1502&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&title=Commits,Repositories" width="49%">
-
-
-</p>
-
----
 
 ## 💬 Let’s Collaborate  
 
